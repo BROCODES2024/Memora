@@ -1,6 +1,6 @@
-# 🧠 ByteBrain
+# 🧠 Memora
 
-**ByteBrain** is a full-stack Second Brain app to capture, organize, and connect ideas in one place. Built with TypeScript, Node.js, React, Express, MongoDB, and Tailwind CSS.
+**Memora** is a full-stack Second Brain app to capture, organize, and connect ideas in one place. Built with TypeScript, Node.js, React, Express, MongoDB, and Tailwind CSS.
 
 ---
 
@@ -28,7 +28,7 @@
 ## 📁 Folder Structure
 
 ```bash
-bytebrain/
+Memora/
 ├── frontend/          # React + Tailwind frontend
 ├── backend/          # Node + Express backend
 └── README.md
@@ -40,8 +40,8 @@ bytebrain/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rajyadav63/bytebrain.git
-cd bytebrain
+git clone https://github.com/BROCODES2024/Memora.git
+cd Memora
 ```
 
 ### 2. Set Up the Backend
@@ -65,14 +65,14 @@ npm run dev
 
 ```ini
 PORT=5000
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/bytebrain
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/Memora
 JWT_SECRET=your_jwt_secret_key
 ```
 
 ## 🙌 Contributing
 
 - Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a pull request.
+  Feel free to fork this repo and submit a pull request.
 
 ## 📄 License
 
